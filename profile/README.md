@@ -1,5 +1,5 @@
 # LUCY STUDIO 🌙
-[!image](https://github.com/lucy5tudi0/.github/blob/main/lucy_studio.png?raw=true)
+![image](https://github.com/lucy5tudi0/.github/blob/main/lucy_studio.png?raw=true)
 
 ## ⭐ Services
 > 🌱 [LUCY NETWORK](https://discord.gg/X7VCFAKw2J)  
