@@ -1,12 +1,14 @@
-## Hi there 👋
+# LUCY STUDIO 🌙
 
-<!--
+## ⭐ Services
+> 🌱 [LUCY NETWORK](https://discord.gg/X7VCFAKw2J)  
+> 🌙 [LUCY STUDIO](https://discord.gg/qbKyfY5vcf)
 
-**Here are some ideas to get you started:**
+## 📱 Contact
+> 📧 [contact@lucystudio.kr](mailto:contact@lucystudio.kr)  
+> 📧 [support@lucymc.kr](mailto:support@lucymc.kr)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔗 Links
+> 🌏 https://lucystudio.kr  
+> ☕ https://cafe.naver.com/lucystudio  
+> 🌱 lucymc.kr / 1.20.x ~ 1.21.x
